@@ -1,0 +1,3 @@
+CREATE DATABASE scalpr;
+CREATE USER scalpruser WITH PASSWORD 'scalpr';
+GRANT ALL PRIVILEGES ON DATABASE scalpr TO scalpruser;
