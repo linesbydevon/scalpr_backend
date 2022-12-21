@@ -1,11 +1,9 @@
-# scalpr_backend
-django models/etc
-
 # SCALPR
 
 ![scalprLogo](https://cdn.discordapp.com/attachments/874654004213317705/1054215481227218944/265EDBC5-006A-4871-A09B-08D0E0B7BFED_4_5005_c.jpeg)
 
-In the digital age, phsyical tickets have become a thing of the past and with it the age old tradition of collecting ticket stubs. Worry no longer, as we've moved your collection space online, too! On Scalpr, you can create a personal log of all of the events and shows you've been to. Share it with your friends, or just use it to keep track of fond memories made, the rest is up to you!
+Your local music scene is closer than ever with Scalpr here to guide you through it! None of the extra run around that other sites give you here; we keep track of all of your local venues and the upcoming shows that will be heading through them!
+
 
 # Goals
 
@@ -20,13 +18,6 @@ In the digital age, phsyical tickets have become a thing of the past and with it
 
 # Visuals
 
-![sitePreview](https://cdn.discordapp.com/attachments/874654004213317705/1054216547150860368/434C71D3-D390-4F8A-8EC8-B894C91D745A.jpeg)
+![homePreview](https://cdn.discordapp.com/attachments/874654004213317705/1054772204337905704/2464E1F3-370A-40CA-92AD-B35AF0BA5511.jpeg)
 
-![sitePreview2](https://cdn.discordapp.com/attachments/874654004213317705/1054216547347996682/5ED9D8F2-4704-404D-9456-0E07425E6598.jpeg)
-
-![wireframe](https://cdn.discordapp.com/attachments/874654004213317705/1054216547532537856/B40DA6A4-C192-44A1-A83C-F0A1760D8130.jpeg)
-
-![basicERD](https://cdn.discordapp.com/attachments/874654004213317705/1054216547742257263/54F21B00-8261-4C9C-8E35-59EC71114941.jpeg)
-
-
-
+![venuePreview](https://cdn.discordapp.com/attachments/874654004213317705/1054868616216068246/414938DD-528F-4803-A298-8BF780EEE315.png)
